@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanket pilane" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="sanket pilane" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanket-pilane-61a372259" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="sanket pilane" height="40" width="40" /></a>
 <a href="https://instagram.com/_the5157" target="blank"><img align="center" src="https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg?w=360" alt="_the5157" height="50" width="50" /></a>
 </p>
 <h1>Languages and Tools<h1>
