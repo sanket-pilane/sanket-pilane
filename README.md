@@ -6,13 +6,32 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket-pilane" alt="sanket-pilane" /></a> </p>
 
+## 🌟 About Me
+> "Strive not to be a success, but rather to be of value." – Albert Einstein
 
-- 🌱 I’m currently learning **MERN, Sprint Boot**
+- 🎓 Computer Science Student at Lovely Professional University
+- 📱 Mobile Developer (Flutter & Android)
+- 💻 Web Enthusiast (ReactJS & NextJS)  
+- ⚙️ Currently diving into **MERN**, **AI/ML**, and **DevOps**
+- 🤝 Open Source Contributor | Hackathons Enthusiast
+- 📫 Reach me at: [lalitpilane7@gmail.com](mailto:lalitpilane7@gmail.com)
 
-- 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **lalitpilane7@gmail.com**
+---
 
+## 🔭 What I’m Working On
+
+| Project               | Tech & Features                             | Status       |
+| :-------------------- | :------------------------------------------ | :----------- |
+| **SaaS Subscription API**         | Express.js, Node.js, MongoDB, JWT, Stripe.<br> Backend for a SaaS tool (like Notion or Grammarly clone) with user subscriptions.    | ⭐ Ongoing    |
+| **Brainwave App API**         | Express.js, Node.js, MongoDB, JWT,   AI Chat & Media Generation | ✅ Completed     |
+| **Brainwave**         | Flutter, Node.js, AI Chat, Image & Video Generation | ✅ Completed    |
+| **Memes & Fun Fact**  | Flutter, Bloc, API Integrations             | ✅ Completed |
+| **AI Voice Assistant** | Python, Firebase, Video Calls           | 🚧 In Planning |
+
+> Check [all projects](https://github.com/sanket-pilane?tab=repositories) for more!
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanket-pilane-5756402b5/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="sanket pilane" height="40" width="40" /></a>
