@@ -23,7 +23,7 @@
 
 | Project               | Tech & Features                             | Status       |
 | :-------------------- | :------------------------------------------ | :----------- |
-| **SaaS Subscription API**         | Express.js, Node.js, MongoDB, JWT, Stripe.<br> Backend for a SaaS tool (like Notion or Grammarly clone) with user subscriptions.    | ⭐ Ongoing    |
+| **SaaS Subscription API**         | Express.js, Node.js, MongoDB, JWT, Stripe.<br> Backend for a SaaS tool (like Notion or Grammarly clone) with user subscriptions.    | ✅ Completed    |
 | **Brainwave App API**         | Express.js, Node.js, MongoDB, JWT,   AI Chat & Media Generation | ✅ Completed     |
 | **Brainwave**         | Flutter, Node.js, AI Chat, Image & Video Generation | ✅ Completed    |
 | **Memes & Fun Fact**  | Flutter, Bloc, API Integrations             | ✅ Completed |
