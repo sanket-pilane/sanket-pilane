@@ -14,9 +14,7 @@
 - 💻 Web Enthusiast (ReactJS & NextJS)  
 - ⚙️ Currently diving into **MERN**, **AI/ML**, and **DevOps**
 - 🤝 Open Source Contributor | Hackathons Enthusiast
-- 📫 Reach me at: [lalitpilane7@gmail.com](mailto:lalitpilane7@gmail.com)
-
-this is changing 
+- 📫 Reach me at: [lalitpilane7@gmail.com](mailto:lalitpilane7@gmail.
 ---
 
 ## 🔭 What I’m Working On
